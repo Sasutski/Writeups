@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "119a004bcc7bebaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b52177a5f61e18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23453b0de5fe8299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSTCTF 2025/crypto/whodoesntlovesquares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "whodoesntlovesquares"
+            }
+          },
+          {
+            "id": "d99f1b7d93c1cfed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSTCTF 2025/forensics/A Strange PDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Strange PDF"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1305a6db2467c097",
+    "type": "split",
+    "children": [
+      {
+        "id": "33dea0b34ffee0b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39eae76ed44da133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "988671f48bf07798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed5d252fba1a4171",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2125bfb3202b0f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd86373bc81010e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd35b8b4e436bfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SSTCTF 2025/forensics/A Strange PDF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A Strange PDF"
+            }
+          },
+          {
+            "id": "7bcb1c7263cba0e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SSTCTF 2025/forensics/A Strange PDF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A Strange PDF"
+            }
+          },
+          {
+            "id": "aec02bf5ab086699",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "00b5cfb605d86d2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SSTCTF 2025/forensics/A Strange PDF.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of A Strange PDF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "39eae76ed44da133",
+  "lastOpenFiles": [
+    "SSTCTF 2025/forensics/A Strange PDF.md",
+    "SSTCTF 2025/web",
+    "SSTCTF 2025/rev",
+    "SSTCTF 2025/misc",
+    "SSTCTF 2025/images",
+    "SSTCTF 2025/forensics",
+    "SSTCTF 2025/pwn",
+    "SSTCTF 2025/osint",
+    "SSTCTF 2025/crypto/whodoesntlovesquares.md",
+    "SSTCTF 2025"
+  ]
+}
