@@ -1,2 +1,2 @@
-# SSTCTF-2025-Writeups
-SSTCTF 2025
+# Writeups
+
