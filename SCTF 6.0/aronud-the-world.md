@@ -4,7 +4,7 @@
 Category: **OSINT**  
 Difficulty: **Hard (Tedious)**
 
-Everyone, we have a message from the challenge setter:
+Before we start, we have a message from the challenge setter on how I solved this challenge:
 <img width="100%" height="auto" alt="Screenshot 2025-07-22 at 08 17 14" src="https://github.com/user-attachments/assets/4c591c93-9731-4688-be87-f1a6431f4ed3" />
 
 I cannot agree enough.  
