@@ -44,3 +44,41 @@ Hooray! We've gotten past the first stage! **9 more to go...**
 ## Stage 2: Lust
 
 The Second Circle of Hell (Lust), was described to blow souls about in a violent storm. That's exactly how I felt, doing this next stage.
+
+The ```archive.ph``` didn't really interest me, but the tinyurl link did. Clicking into it brings us to an Instagram page:
+<img width="1126" height="724" alt="Screenshot 2025-07-25 at 12 05 55" src="https://github.com/user-attachments/assets/4b663420-298e-4565-a2d5-cadc11e43e32" />
+The bio explicitly told us the ```archive.ph``` was not working, so that's great, which means we skip a step!
+
+Hooray.
+
+Anyway, looking into it, we see three Instagram posts, each with its own caption.  
+However, none of them led you anywhere, except to locations. At this point, I was speculating we might need to return to this point later in the question, but with no hints, I was unable to think of anything.
+
+I kid you not, I was stuck on this particular section for an hour, hoping maybe the coordinates spelt out something.
+
+
+
+
+
+
+
+
+##### for later steps
+
+
+Let's take a look at the posts a bit closer, from the latest to the most recent.
+### Post 1: The mysterious event
+<img width="1106" height="702" alt="Screenshot 2025-07-25 at 12 11 48" src="https://github.com/user-attachments/assets/ef97a4a1-5ef6-4b48-9fd6-4548c2aa6932" />
+
+<img width="1109" height="705" alt="Screenshot 2025-07-25 at 12 12 42" src="https://github.com/user-attachments/assets/53a0319c-0d89-4f69-bcf9-33b7ddb53239" />
+
+The caption said:
+> The event was amazing!! Though I should now figure out a way over to where my hotel is…
+
+
+
+
+
+
+
+
